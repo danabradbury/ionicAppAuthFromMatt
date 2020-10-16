@@ -1,0 +1,7 @@
+{
+  "name": "secure-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
